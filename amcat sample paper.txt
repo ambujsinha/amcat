@@ -1,0 +1,498 @@
+english
+Synonyms/Antonyms/Word Meaning (Vocabulary)
+Complete the Sentence (Grammar)
+Spot error/Correct sentence (Grammar/sentence construction)
+Sentence Ordering (Comprehension skills)
+Questions based on passage (Comprehension skills)
+
+quantitative
+--------------------------
+Logarithms
+HCF and LCM, Divisibility
+Power
+Numbers, Decimal Fractions
+Permutations and Combinations, Probability
+Word Problem: Profit, Interest, Inverse
+
+reasoning
+------------------------
+Analogy Pattern Recognition
+Classification Pattern Recognition
+Coding Pattern Recognition
+Number Series Pattern Recognition
+Direction sense, Blood relations, CDL
+Puzzles, Logical word sequence
+Selection decision table
+Data sufficiency
+Objective reasoning
+
+technical domai
+-----------------------------
+Basic Programming: Iteration, recursion, decision-making Compilation, execution, errors,Data types,Complexity
+Data structures:Graph, Hash, Heap, Linked list
+OOPS
+Procedures, functions, Scope
+Search & sorting, Queue, Sorting, Stacks, Trees
+-------------------------------------------------------------------------------------------------------------------------------
+In the following question select the word which is OPPOSITE in the meaning of the given word.
+Q1. INDISCREET
+
+a. reliable
+b. honest
+c. prudent
+d. stupid
+
+
+Q2. SOLICITUDE
+
+a. insouciance
+b. ingenuity
+c. propriety
+d. austerity
+
+Q3. In the sentence there is a bold word or phrase. One of the words or phrases given in the options conveys almost the same meaning as the bold word or phrase in the sentence. Select that option which is nearest in meaning.
+
+It is preposterous on your part to look for a job without first completing your education.
+
+a. Wise
+b. Imperative
+c. Advisable
+d. Most admirable
+e. Very absurd
+
+In the following questiones, fill in the blank space.
+
+Q4. The success that he has gained, though striking enough, does not, however, commensurate . . . . the efforts made by him.
+
+a. About
+b. From
+c. With
+d. Beside
+e. Over
+
+Q5. Vinod took his meals after he . . . .
+
+a. Had completed his work
+b. Had been completing his work
+c. Was completing his work
+d. Had been completed his work
+e. Had got completed his work
+
+In the following questions, select the word or phrase that is similar in meaning to the given word.
+
+Q6. Nonchalance
+
+a. Neutrality
+b. Indifference
+c. All-knowing
+d. Ignorance
+e. Untimeliness
+
+Q7. Conceal
+
+a. Hide
+b. Seal
+c. Ceiling
+d. Horrifying
+
+Q8. Read the sentence to find out whether there is any grammatical error in it. The error, if any, will be in one part of the sentence. The letter of that part is the answer. If there is no error, the answer is 'D'. (Ignore - the errors of punctuation,if any)
+
+(A) The whole thing moves/ (B) around the concept of building a small dynamic/(C) organisation into a larger one./(D) No error.
+
+a. (A)
+b. (B)
+c. (C )
+d. (D)
+
+Q9. In the question a part of the sentence is italicised. Alternatives to the italicised part is given which may improve the sentence. Choose the correct alternative. In case no improvement is needed. Option 'D' is the answer.
+
+She gave most of her time to music.
+
+a. spent
+b. lent
+c. devoted 
+d. No improvement
+
+Q10. The given sentences when properly sequenced, form a coherent paragraph. Each sentence is labelled with a number. Choose the most logical order of sentences from among the four given choices to construct a coherent paragraph.
+
+1. He was so busy with them that he did not get time to eat. 2. Thousands of people came to him and asked different types of questions. 3. No one cared to see that he had his food or rest that night. 4. Swami Vivekanand once stayed in a small village. 
+
+a. 2341
+b. 3214
+c. 4213
+d. 4231
+
+Answer the question based on the given passage
+
+Management is a set of processes that can keep a complicated system of people and technology running smoothly. The most important aspects of management include planning, budgeting, organising, staffing, controlling, and problem-solving. Leadership is a set of processes that creates organisations in the first place or adapts them to significantly changing circumstances. Leadership defines what the future should look like, aligns people with that vision, and inspires them to make it happen despite the obstacles. This distinction is absolutely crucial for our purposes here: Successful transformation is 70 to 90 per cent leadership and only 10 to 30 percent management. Yet for historical reasons, many organisations today don't have much leadership. And almost everyone thinks about the problem here as one of managing change. For most of this country, as we created thousands and thousands of large organisations for the first time in human history, we didn't have enough good managers to keep all those bureaucracies functioning. So many companies and universities developed management programs and hundreds and thousands of people were encouraged to learn management on the job. And they did. But, people were taught little about leadership. To some degree, management was emphasised because it's easier to teach than leadership. But even more so, management was the main item on the twentieth-century agenda because that's what was needed. For every entrepreneur or business builder who was a leader, we needed hundreds of managers to run their ever-growing enterprises. Unfortunately for us today, this emphasis on management has often been institutionalised in corporate cultures that discourage employees from learning how to lead. Ironically, past success is usually the key ingredient in producing this outcome. The syndrome, as I have observed it on many occasions, goes like this: success creates some degree of marked dominance which in turn produces much growth. After a while keeping the ever-larger organisation under control becomes the primary challenge. So attention turns inward and managerial competencies are nurtured. With a strong emphasis on management but not leadership, bureaucracy and an inward focus takeover. But with continued success, the result mostly of market dominance, the problem often goes unaddressed and an unhealthy arrogance begins to evolve. All of these characteristics then make any transformation effort much more difficult. Arrogant managers can over-evaluate their current performance and competitive position, listen poorly and learn slowly. Inwardly focused employees can have difficulty seeing the very forces that present threats and opportunities. Bureaucratic cultures can smother those who want to respond to shifting conditions. And the lack of leadership leaves no force inside these organisations to break out of the morass.
+
+Q11. Why did companies and universities develop programmes to prepare managers in such a large number?
+
+a. (A) Companies and universities wanted to generate funds through these programmes
+b. (B) The large number of organisations were created as they needed managers in good number
+c. (C) Organisations did not want to spend their scarce resources in training managers
+d. (D) Organisations wanted to create communication network through trained managers
+
+Q12. How has the author defined management?
+
+a. It is the process of adapting organisations to changing circumstances.
+b. It is the system of aligning people with the direction it has taken.
+c. It refers to creating a vision to help direct the change effectively.
+d. Creating better performance through customer orientation.
+
+Q13. What is the historical reason for many organisations not having leadership?
+
+a. A view that leaders are born, they are not made
+b. Leaders lack managerial skills and organisations need managers
+c. Leaders are weak in carrying out traditional functions of management
+d. Leaders allow too much complacency in organisations
+
+Q14. Which of the following characteristics help organisations in their transformation efforts?
+
+a. Emphasis on leadership but not management
+b. A strong and dogmatic culture
+c. Bureaucratic and inward looking approach 
+d. Failing to acknowledge the value of customers and shareholders
+
+Q15. Which of the following is similar in meaning of the word 'smother' as used in the passage?
+
+a. Suppress
+b. Encourage
+c. Instigate
+d. Criticise
+-------------------------------------------------------------------------------------------------------------------------------------------
+Q1. In a kilometre race, if A gives B a 40 m start, A wins by 19 s. But if A gives B a 30 s start, B wins by 40 m. Find the time taken by B to run 5,000 m?
+
+a. 150 s
+b. 450 s
+c. 750 s
+d. 825 s
+
+Q2. Pipe A takes 16 min to fill a tank. Pipes B and C, whose cross-sectional circumferences are in the ratio 2:3, fill another tank twice as big as the first. If A has a cross-sectional circumference that is one-third of C, how long will it take for B and C to fill the second tank? (Assume the rate at which water flows through a unit cross-sectional area is same for all the three pipes.)
+
+a. 66/13
+b. 40/13
+c. 16/13
+d. 32/13 
+
+Q3. Three consecutive whole numbers are such that the square of the middle number is greater than the product of the other two by 1. Find the middle number.
+
+a. 6
+b. 18
+c. 12
+d. All of these
+
+Q4. The arithmetic mean of 2 numbers is 34 and their geometric mean is 16. One of the numbers will be
+
+a. 4
+b. 16
+c. 18
+d. 12
+
+Q5. If x% of a is the same as y% of b, then z% of b is : 
+
+a. (xy/z)% of a
+b. (yz/x)% of a
+c. (xz/y)% of a
+d. None of these
+
+Q6. The letters of the word WOMAN are written in all possible orders and these words are written out as in a dictionary ,then the rank of the word 'WOMAN' is 
+
+a. 117
+b. 120
+c. 118
+d. 119
+
+Q7. What least number must be subtracted from 9400 to get a number exactly divisible by 65?
+
+a. 40
+b. 20
+c. 80
+d. none of these
+
+Q8. If 2505 / 0.5 = 5010 then 25.05 / 0.5 = ?
+
+a. 5.010
+b. 50.10
+c. 501.0
+d. None of these
+
+Q9. Which pair of rational numbers lie between 1/5 and 2/5 -
+
+a. 262/1000, 275/1000
+b. 362/1000, 562/1000
+c. 451/1000, 552/1000
+d. 121/1000,131/1000
+
+Q10. What is the value of the following expression: 2 log10 5 + log10 4 ?
+
+a. 2
+b. 2.5
+c. 3
+d. None of these
+
+Q11. If x increases linearly, how will a-x behave (a>1) ?
+
+a. Increase linearly
+b. Decrease linearly
+c. Increase exponentially
+d. Decrease exponentially
+
+Q12. What is the probability of getting the sum 5 in two throws of the dice?
+
+a. 1/12
+b. 1/5
+c. 1/9
+d. None of these
+---------------------------------------------------------------------------------------------------------------------------------
+Q1. The question shows a pair of words in which the first is related to the second in some way. It is followed by a single word which bears a similar relation to one of the given alternatives. Find the correct alternative to complete the analogy.
+
+Melt:Liquid::Freeze: ?
+
+a. Ice
+b. Condense
+c. Solid
+d. Crystal
+
+Q2. Fill in the blankGuilt is to Past as Hope is to ......
+
+a. Present
+b. Future
+c. Today
+d. Despair
+e. Hopeless
+
+Q3. From the given choices select the odd man out:
+
+a. Bird
+b. Kite
+c. Crow
+d. Pigeon
+e. Sparrow
+
+Q4. Find the missing pattern
+
+BOQD : ERTG :: ANPC : ?
+
+a. DQSF
+b. FSHU
+c. SHFU
+d. DSQF
+
+Q5. Find the missing number
+
+5 : 24 :: 8 : ?
+
+a. 65
+b. 63
+c. 62
+d. 64
+
+Q6. From the given choices select the odd man out
+
+a. DFHEG
+b. TWXUV
+c. OQSPR
+d. JLNKM
+
+
+Q7. If HARD is coded as 1357 and SOFT is coded as 2468, what will 21448 stand for? 
+
+a. SHAFT
+b. SHORT
+c. SHOOT
+d. SHART
+
+Q8. Find the next number in the series
+
+1, 6, 13, 22, 33, ......
+
+a. 44
+b. 45
+c. 46
+d. 47
+
+Q9. The question contains some statements followed by some conclusions. Decide which of the given conclusions logically follow from the given statements, disregarding commonly known facts.
+
+Statements:
+I) All tomatoes are red.
+II) All grapes are tomatoes.
+Conclusions:
+I) All grapes are red.
+II) Some Tomatoes are grapes.
+
+a. Only conclusion I follows.
+b. Only conclusion II follows.
+c. Neither I nor II follows
+d. Both I and II follow.
+e. Either I or II follows
+
+
+Q9. Old woman's son is my daughter's uncle, then what relation has the old woman to me ?
+
+a. Sister
+b. Mother
+c. Grandmother
+d. Mother - in - law
+
+Q10. Ramu was facing East.He walked 4 km forward and then after turning to his right walked 6 km. Again he turned to his right and walked 7 km. After this he turned back.Which direction was he facing at the time?
+
+a. East
+b. North
+c. South
+d. West
+e. North-East
+
+
+Q11. Raman is not wearing purple and Aman is not wearing black.Raman and Sahil wear different colours.Avinash alone wears green.What is Sahil's colour, if all four of them are wearing different colours.
+
+a. Green
+b. Black
+c. Purple
+d. Can't Say
+
+Q12. The question is followed by two arguments numbered I and II. You have to decide which of the arguments is a strong argument and which is a weak argument. 
+
+Statement :
+Should a total ban be put on trapping wild animals?
+Arguments :
+I. Yes, Trappers are making a lot of money.
+II. No, bans on hunting and trapping are not effective.
+
+a. Only argument I is strong.
+b. Only argument II is strong.
+c. Either I or II is strong.
+d. Neither I nor II is strong.
+e. Both I and II are strong
+
+Q13. The question contains a statement followed by two Assumptions I and II. Find out which assumption(s) is implicit.
+
+Statements:
+Vitamin E tablets improve circulation, keep your complexion in glowing condition.
+Assumptions :
+I. People like glowing complexion.
+II. Complexion becomes dull in the absence of circulation. 
+
+a. Only assumption I is implicit
+b. Only assumption II is implicit
+c. Both assumption I and II are implicit.
+d. Neither assumption I nor II is implicit
+
+Q14. Study the statement(s) and the conclusions and select the correct option.
+
+Statement :
+No country is absolutely self - dependent these days.
+Conclusions :
+I. It is imposible to grow and produce all that a country needs.
+II. Countrymen in general have become lazy.
+
+a. Only Conclusion I follows
+b. Only Conclusion II follows
+c. Both the conclusion I and II follow
+d. Either conclusion I or II follows
+e. Neither conclusion I nor II follows
+
+Q15. In the question a statement is followed by some courses of action . A course of action is a step or administrative decisions to be taken for improvement, follow-up, or further action in regard to the problem, policy, etc.You have to assume everything in the statement to be true and then decide which of the given suggested course(s) of action logically follows for pursuing.
+
+Statement:
+'The World Bank has approved a $ 300 million loan to finance a project to construct coal ports by Madras Port Trusts.
+Courses of Action :
+I. India should take financial help from other international financial institutions to develop such ports in other places.
+II. India should not seek any help from the international financial institutions.
+
+a. Only I follows
+b. Only II follows
+c. Either I or II follows
+d. Neither I nor II follows
+e. Both I and II follow.
+--------------------------------------------------------------------------------------------------------------------------------------
+Q1. A 8-bit signed integer has the following range:
+
+a. 0 to 255
+b. -128 to 127
+c. -255 to 254
+d. 0 to 509
+
+Q2. What will be the output of the following code statements?
+
+integer x = 34.54, y = 20, z = -5
+print ( y > 50 AND z > 10 or x > 30 )
+
+a. 0
+b. 1
+c. -1
+d. 10
+
+Q3. Pankaj makes a program to print the product of cubes of the first 10 whole numbers. She writes the following program:
+
+integer x = 0 // statement 1
+integer sum = 0 // statement 2
+while ( x < 10 ) // statement 3
+{
+  sum = x*x*x // statement 4
+  x = x + 1 // statement 5
+}   
+print sum // statement 6
+
+Is her program correct? If not, which statement will you modify to correct it?
+
+a. No error, the program is correct.
+b. Statement 1
+c. Statement 4
+d. statement 6
+
+Q4. I have a problem to solve which takes as input a number n. The problem has a property that given the solution for (n-1), I can easily solve the problem for n. Which programming technique will I use to solve such a problem?
+
+a. Iteration
+b. Decision-making
+c. Object Oriented Programming
+d. Recursion
+
+Q5. Given:
+
+integer x = 40, y = 35, z = 20, w = 10
+
+Comment about the output of the following two statements:
+
+print x * y / z - w
+print x * y / (z - w)
+
+a. Differ by 80
+b. Same
+c. Differ by 50
+d. Differ by 160
+
+Q6. Data and function in which area of a class are directly accessible outside the class?
+
+a. Public
+b. Private
+c. Protected
+d. None of these
+
+Q7. Here is an infix notation: ((A+B)*C-(D-E))^(F+G) Choose the correct postfix notation of the above from the given options. 
+
+a. AB+CD*E--FG+^
+b. AB+C*DE--FG+^
+c. AB+C*DE-FG-+^
+d. A+BC*DE-FG-+^
+
+Q8. If the depth of a tree is 3 levels, then what is the size of the Tree?
+
+a. 2
+b. 4
+c. 6
+d. 8
+
+Q9. One of the following options is a form of access used to add and remove nodes from a queue.
+
+a. LIFO
+b. FIFO
+c. Both LIFO and FIFO
+d. None of these
+
+Q10. What is the time complexity of adding three matrices of size NXN cell-by-cell?
+
+a. O(N)
+b. O(N^2)
+c. O(N^3)
+d. None of these
